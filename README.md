@@ -11,9 +11,6 @@ Electronics engineer with experience in Python, Dart, Flutter, Django, React, HT
 - **Version Control**: Git, GitHub
 - **Electronics**: Raspberry Pi, Arduino, Sensors, Actuators
 
-## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
 ## 🚀 Projects
 - **[Kitchen Timer](https://rama-2020.github.io/kitchen_timer/)**: Simple Countdown/Up Timer
 - **[Personal CV Portfolio](https://ramiroscerra.com/)**: Online CV
